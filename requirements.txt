@@ -1,0 +1,5 @@
+numpy==2.3.0
+project1_ml==0.0.1
+setuptools==80.9.0
+
+-e .
